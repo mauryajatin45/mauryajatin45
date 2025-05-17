@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jatin Maurya</h1>
-<h3 align="center">A passionate web developer with expertise in frontend and backend development. Proficient in creating user-centric digital experiences using modern technologies like HTML, CSS, JavaScript, Node.js, Express, and MongoDB. I thrive on building high-quality, scalable web applications and enjoy collaborating with teams to deliver impactful projects. Always eager to learn and adapt to new technologies in a professional environment.</h3>
+<h3 align="center">A detail-oriented and innovative web developer with expertise in full-stack development. Proficient in creating responsive, user-centric applications using HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB. Passionate about learning new technologies, solving complex problems, and delivering high-quality, impactful solutions in collaborative environments.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mauryajatin45&label=Profile%20views&color=ff0000&style=flat-square" alt="Profile Views" />
@@ -12,8 +12,9 @@
 </p>
 
 - 🌱 I’m currently learning **React** and exploring advanced backend development.
-- 👨‍💻 All of my projects are available at [My Portfolio](https://jatin-maurya-portfolio.netlify.app/)
-- 📫 How to reach me: **mauryajatin45@gmail.com**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://www.mauryajatin.me)
+- 📖 Check out our latest [Blog](https://blog.mauryajatin.me)
+- 📫 How to reach me: **mailto:mauryajatin45@gmail.com**
 
 ---
 
