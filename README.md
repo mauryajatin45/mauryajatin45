@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **React** and exploring advanced backend development.
 - 👨‍💻 All of my projects are available at [My Portfolio](https://www.mauryajatin.me)
 - 📖 Check out our latest [Blog](https://blog.mauryajatin.me)
-- 📫 How to reach me: **mailto:mauryajatin45@gmail.com**
+- 📫 How to reach me: **mauryajatin45@gmail.com**
 
 ---
 
