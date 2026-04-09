@@ -1,53 +1,48 @@
 <h1 align="center">Hi 👋, I'm Jatin Maurya</h1>
-<h3 align="center">Full Stack Web Developer | React | Node.js | MongoDB | Flutter</h3>
+<h3 align="center">Founder & Full-Stack Systems Builder | MERN | Shopify | Automations</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mauryajatin45&label=Profile%20views&color=ff0000&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
-  🚀 Passionate full-stack developer building scalable web & mobile applications using React, Node.js, MongoDB, Flutter, and more.<br>
-  🔍 I love solving algorithmic problems and working on meaningful tech projects.<br>
+  🚀 I don't just write code; I build scalable systems. I specialize in custom web applications, complex Shopify architectures, and business automation workflows.<br>
+  ⚙️ Founder of Terzettoo, focusing on practical, execution-oriented technical solutions that drive results.<br>
   🌐 Portfolio: <a href="https://www.mauryajatin.me">mauryajatin.me</a> | 📬 Email: <a href="mailto:mauryajatin45@gmail.com">mauryajatin45@gmail.com</a>
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🎓 BCA @ Silver Oak University | 9.30 CGPA
-- 🔧 Skilled in full-stack development (MERN), RESTful APIs, and real-time web apps
-- 🌱 Currently learning **React** and **advanced backend patterns**
-- 🛠️ Building open-source projects & contributing to tech communities
-- 📖 Explore my latest blogs on: [blog.mauryajatin.me](https://blog.mauryajatin.me)
+- 💼 **Founder @ Terzettoo:** Leading an IT consultancy focused on high-performance web systems and service-based revenue.
+- 🎓 **Academics:** Completing my BCA at Silver Oak University (9.30 CGPA).
+- 🔧 **Expertise:** MERN Stack, Next.js, Shopify Custom Apps, Headless Commerce, and API Integrations.
+- ⚡ **Mindset:** Execution-oriented. I think in systems, flows, and automations (n8n, webhook logic) to ship production-ready solutions fast.
+- 📖 **Writing:** Explore my latest technical deep-dives on: [blog.mauryajatin.me](https://blog.mauryajatin.me)
 
 ---
 
-### 🏆 Achievements & Highlights
-- 🥈 **2nd Prize - SOUIVTHON Hackathon** (AI-powered online proctoring system)
-- 💡 Created a **multi-language online code editor** using Judge0 API
-- 🧠 Built a **career development platform with Gemini AI integration**
-- 🎯 Actively participated in intercollege hackathons and workshops
+### 🔨 Featured Systems & Architecture
 
----
+#### 💼 QuickCheck – Digital Waitlist & SaaS Platform
+> **Node.js, Express.js, MongoDB, React**
+- Architected and launched a complete, production-ready digital reservation system from the ground up.
+- Implemented secure auth, real-time database updates, and scalable backend logic.
 
-### 🔨 Major Projects
+#### 🛒 Shopify B2B Wholesale Portals & Embedded Apps
+> **Shopify API, App Bridge, Liquid, Node.js**
+- Engineered custom Shopify Embedded Apps rendering complex UI natively within the Shopify Admin.
+- Built comprehensive B2B portals featuring custom pricing tiers and automated integrations with third-party tools like QuickBooks.
+
+#### 🤖 AI-Powered Automation Ecosystems
+> **n8n, Gemini AI / OpenAI, Webhooks**
+- Developed closed-loop automated ecosystems for customer support and content generation.
+- Integrated AI workflows directly into e-commerce operations to eliminate manual bottlenecks.
 
 #### 📌 CodeLab – Multi-language Code Editor
 > **React, Judge0 API, Google Drive API**
-- Real-time complexity analysis and custom file system
-- Local file access and DSA snippet saving
-
-#### 🏠 Airbnb Clone
-> **Node.js, Express.js, MongoDB, Mapbox**
-- User auth, image upload (Cloudinary), location search, review system
-
-#### 💼 CareerCraft – Career Development Platform
-> **Node.js, MongoDB, Gemini AI**
-- AI-based resume builder, mock interviews, skill assessments
-
-#### ▶️ VLC Web Clone
-> **HTML, CSS, JavaScript**
-- Web media player with custom playback controls and fullscreen support
+- Built a custom file system with real-time complexity analysis.
+- *Awarded 2nd Prize at SOUIVTHON Hackathon for building production-ready logic.*
 
 ---
 
@@ -71,6 +66,24 @@
 
 ---
 
+### 🧰 Core Tech Stack
+
+<p align="left">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" title="React" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" title="Node.js" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" title="Express" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" title="MongoDB" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" title="GCP" /></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" title="Figma" /></a>
+</p>
+
+---
+
 ### 🌐 Connect with Me
 
 <p align="left">
@@ -87,30 +100,9 @@
 
 ---
 
-### 🧰 Tech Stack
-
-<p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" /></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" /></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" /></a>
-</p>
-
----
-
 ### ✅ Let's Collaborate
-Open to freelance, internship, or full-time roles in:
-- MERN Stack Development
-- Flutter App Development
-- UI/UX Implementation
-- Tech Blogging and Mentorship
-
----
-
+Open to high-impact projects, B2B partnerships, and technical consulting in:
+- Custom MERN Stack Development & SaaS Architecture
+- Shopify Custom App Development & Store Logic
+- Business Process Automation (n8n, API routing)
+- Cloud Deployments (AWS, GCP, Vercel)
