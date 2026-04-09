@@ -8,14 +8,14 @@
 <p align="center">
   🚀 I don't just write code; I build scalable systems. I specialize in custom web applications, complex Shopify architectures, and business automation workflows.<br>
   ⚙️ Founder of Terzettoo, focusing on practical, execution-oriented technical solutions that drive results.<br>
-  🌐 Portfolio: <a href="https://www.mauryajatin.me">mauryajatin.me</a> | 📬 Email: <a href="mailto:mauryajatin45@gmail.com">mauryajatin45@gmail.com</a>
+  🌐 Portfolio: <a href="https://portfolio.mauryajatin.me">portfolio.mauryajatin.me</a> | 📬 Email: <a href="mailto:mauryajatin45@gmail.com">mauryajatin45@gmail.com</a>
 </p>
 
 ---
 
 ### 🧠 About Me
-- 💼 **Founder @ Terzettoo:** Leading an IT consultancy focused on high-performance web systems and service-based revenue.
-- 🎓 **Academics:** Completing my BCA at Silver Oak University (9.30 CGPA).
+- 💼 **Founder @Terzettoo:** Leading an IT consultancy focused on high-performance web systems and service-based revenue.
+- 🎓 **Academics:** Completing my BCA at Silver Oak University (9.49 CGPA).
 - 🔧 **Expertise:** MERN Stack, Next.js, Shopify Custom Apps, Headless Commerce, and API Integrations.
 - ⚡ **Mindset:** Execution-oriented. I think in systems, flows, and automations (n8n, webhook logic) to ship production-ready solutions fast.
 - 📖 **Writing:** Explore my latest technical deep-dives on: [blog.mauryajatin.me](https://blog.mauryajatin.me)
